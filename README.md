@@ -22,5 +22,5 @@ modulo.py
 
 
 funkcje importujemy np w ten sposób:
->>>from ProjectEuler import NumberTheory as nt
->>>nt.inverse(3,5)
+from ProjectEuler import NumberTheory as nt
+nt.inverse(3,5)
