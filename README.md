@@ -19,3 +19,8 @@ modulo.py
         leg_sym(a,n)- funkcja licząca symbol legandra elementu a modulo n
         modular_sqrt(a,n) - funkcja znajdująca taki element x, że x^2=a mod n algorytmem Tonelliego–Shanksa
         inverse(x,p) - funkcja znajdująca element odwrotny do x w grupie multiplikatywnej mod p
+
+
+funkcje importujemy np w ten sposób:
+>>>from ProjectEuler import NumberTheory as nt
+>>>nt.inverse(3,5)
