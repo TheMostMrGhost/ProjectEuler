@@ -1,3 +1,5 @@
+Zalecane czytanie w trybie Raw
+
 Biblioteka ProjectEuler to zbiór funkcji użytecznych w rozwiązywaniu zadań z PE.
 Aby pobrać należy wpisać w terminalu będąc w odpowednim katalogu "git clone https://github.com/Wesenheit/ProjectEuler.git".
 Odpowiedni katalog znajdujemy importując w interpreterze pythona bibliotekę sys i wywołując sys.path. Komenda ta powinna zwrócić listę katalogów które interpreter
