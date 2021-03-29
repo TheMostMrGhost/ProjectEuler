@@ -52,7 +52,7 @@ def tot(x, licz):
     if x == 0:
         return 0
     else:
-        wyn = 1
+        wyn = x
         for i in p:
             wyn *= (1-1/i)
         return int(wyn)
